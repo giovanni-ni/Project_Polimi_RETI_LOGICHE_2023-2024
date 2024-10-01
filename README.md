@@ -8,3 +8,5 @@ Voto: 30/30 e Lode
 -Computer Engineering Project (Final Test) for the course: "Digital Logic Design" at "Politecnico di Milano".
 Academic Year: 2022/2023.
 Grade: 30/30 Cum Laude.
+
+"TB set 1", "TB set 2", "TB set 4" and the file "project_tb.vhd" are test benches I used to test my main program.
